@@ -2,6 +2,4 @@
 
 This is a really awesome website
 
-Now editing on update-radme branch 
-
-Updated locally
+Updates made on master on Github before rebase 
